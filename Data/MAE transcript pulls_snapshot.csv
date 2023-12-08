@@ -1,0 +1,20 @@
+id,majcd,majcd2,majcd3,firstregtermcd,sex,pascd,ethnic_intl,firstgeneration,lowincome,term,coursecode,deptname,coursenumber,units,grade,degterm,degmajor,degreepostedsw
+1,277,,,201692,M,3,White,0,0,201714,19030,ENGRMAE,91,4,B-,201876,277,1
+2,666,,,200192,M, ,"Asian, including Pacific Islander",,,201103,47740,PHYSICS,112A,4,B,200392,276,1
+2,666,,,200192,M, ,"Asian, including Pacific Islander",,,201303,47700,PHYSICS,111B,4,C,201376,666,1
+3,06G,,,201992,F,6,White,1,0,202014,37060,STATS,67,4,A,202114,06G , 
+4,201,,,201592,M,2,"Asian, including Pacific Islander",1,0,201725,37850,STATS,67,4,C,201903,201,1
+5,540,,,201192,M,2,"Asian, including Pacific Islander",,0,201492,44646,MATH,112A,4,A-,201576,540,1
+6,277,,,201692,M,3,"Asian, including Pacific Islander",1,0,201714,19254,ENGRMAE,189,2,A,201876,277,1
+8,284,,,201892,F,3,White,0,0,202014,15520,ENGRCEE,160,4,B,202114,284, 
+9,03T,,,200992,M,2,"Asian, including Pacific Islander",,0,201203,37830,STATS,67,4,B-,201392,201,1
+11,01N,,,201692,F,2,"Asian, including Pacific Islander",1,1,201814,37740,STATS,67,4,C+,202014,01N ,1
+12,201,,,200992,M,3,White,1,0,200992,37820,STATS,67,4,B+,201203,201,1
+14,289,,,201792,F,2,"Asian, including Pacific Islander",0,0,202092,18375,ENGRMAE,150,4,P,202114,289, 
+15,666,,,201492,M,3,"Asian, including Pacific Islander",0,1,201539,19015,ENGRMAE,52,4,A,201714,277,1
+16,277,279,,200992,F,2,White,0,0,201303,19480,ENGRMAE,199,2,A,201314,277,1
+17,540,,,201692,F,3,"Asian, including Pacific Islander",0,1,201903,45012,MATH,112B,4,B,201903,540,1
+18,04W,,,201492,M,2,"Asian, including Pacific Islander",0,0,201614,37750,STATS,67,4,C,201803,04W ,1
+20,193,,,201792,M,3,Latino,0,0,201803,37380,STATS,67,4,B,202014,06G ,1
+22,284,,,201092,M,3,Black,0,0,201214,17100,ENGRCEE,160,4,B-,201314,284,1
+23,19H,,,200792,M,2,"Asian, including Pacific Islander",1,0,200992,37820,STATS,67,4,C-,201114,19H ,1
